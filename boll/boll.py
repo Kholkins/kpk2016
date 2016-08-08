@@ -9,8 +9,8 @@ ball_minimal_radius = 10
 ball_maximal_radius = 40
 
 #ball_available_colors = '0123456789ABCDEF'#['green', 'blue', 'red', 'lightgray', '#FF00FF', '#FFFF00']
-#balls_coord = []#список координат шариков
-#balls_num = []#список номеров шариков
+#balls_coord = []
+#balls_num = []
 
 ball_available_colors = ['green', 'blue', 'red', 'lightgray', '#FF00FF', '#FFFF00']
 ball_bonus_for_color = [       2,      2,     3,           1,         1,         1]
